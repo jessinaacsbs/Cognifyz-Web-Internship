@@ -5,7 +5,7 @@ This repository contains the web development tasks completed for the **Cognifyz 
 ## Live Demo & Repository
 
 * **Live Website:** [https://jessinaacsbs.github.io/Cognifyz-Web-Internship/](https://jessinaacsbs.github.io/Cognifyz-Web-Internship/)
-* **GitHub Repository:** [https://github.com/jessinaacsbs/Cognifyz-Web-Internship](https://github.com/jessinaacsbs/Cognifyz-Web-Internship)
+
 
 ## Project Structure
 
@@ -29,7 +29,7 @@ Cognifyz-Web-Internship/
 │   └── task2-landing-page.html
 ├── account.html
 └── index.html
-
+```
 
 
 Overview of Tasks
