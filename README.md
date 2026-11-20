@@ -32,21 +32,16 @@ Cognifyz-Web-Internship/
 ```
 
 
-Overview of Tasks
-Home & Account Pages: index.html and account.html
+## **Overview of Tasks**
 
-Level 1: HTML & CSS fundamentals (Level-1/task1-html-css.html) and JavaScript interactivity (Level-1/task2-javascript.html)
+* **Home & Account Pages:** `index.html` and `account.html`
+* **Level 1:** HTML & CSS fundamentals (`Level-1/task1-html-css.html`) and JavaScript interactivity (`Level-1/task2-javascript.html`)
+* **Level 2:** Front-end frameworks (`Level-2/task1-frameworks.html`) and responsive design (`Level-2/task2-responsive.html`)
+* **Level 3:** Image gallery (`Level-3/task1-image-gallery.html`) and landing page (`Level-3/task2-landing-page.html`)
 
-Level 2: Front-end frameworks (Level-2/task1-frameworks.html) and responsive design (Level-2/task2-responsive.html)
+## **Technologies Used**
 
-Level 3: Image gallery (Level-3/task1-image-gallery.html) and landing page (Level-3/task2-landing-page.html)
-
-
-Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-Git & GitHub Pages
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Git & GitHub Pages
